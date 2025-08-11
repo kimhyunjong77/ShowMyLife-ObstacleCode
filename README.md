@@ -23,7 +23,7 @@
 | **SlowZone.cs** | 속도 감소 존 |
 | **SpeedObstacle.cs** | 속도 증가/감소 존 |
 | **DisappearingObstacle.cs** | 일정 시간 후 사라졌다 재등장 (투명/SetActive) |
-| **InputObstacle.cs** | 밟으면 이펙트 표시 |
+| **InputObstacle.cs** | 밟으면 이펙트발판 표시 |
 | **ShooterObstacle.cs** | 투사체 발사 장애물 |
 | **Projectile.cs** | 발사체 동작 및 플레이어 밀어내기 |
 | **Teleporter.cs** | 트리거형 텔레포터 |
@@ -51,7 +51,7 @@
 
 ### 4. 특수 효과
 - **DisappearingObstacle**: 일정 시간 후 사라지고 재등장
-- **InputObstacle**: 밟으면 이펙트 표시
+- **InputObstacle**: 밟으면 이펙트발판 일정시간 표시
 - **ShooterObstacle**: 주기적 투사체 발사
 - **Teleporter**: 트리거 진입 시 다른 위치로 이동
 
